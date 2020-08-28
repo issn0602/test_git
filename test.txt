@@ -1,1 +1,6 @@
 This is my first text file.
+Adding new line 1.
+Adding new line 2.
+Adding new line 3.
+Adding new line 4.
+Adding new line 5.
